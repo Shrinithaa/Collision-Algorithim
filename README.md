@@ -1,2 +1,2 @@
-# Collision-Algorithim
-When the two rectangles collide, it will change both of the rectangles colors to purple.
+# p5.play-boilerplate
+Boiler plate for p5.play
